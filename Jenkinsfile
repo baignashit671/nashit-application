@@ -17,3 +17,4 @@ pipeline{
                                 sh "mkdir folder1"
                               }
 }					
+       }
